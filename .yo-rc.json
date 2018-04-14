@@ -30,6 +30,8 @@
       "cucumber"
     ],
     "jhiPrefix": "jhi",
-    "enableTranslation": false
+    "enableTranslation": false,
+    "herokuDeployType": "git",
+    "herokuAppName": "vl-gateway"
   }
 }
