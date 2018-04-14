@@ -152,6 +152,8 @@ jhipster:
         spectator-metrics: # Reports Spectator Circuit Breaker metrics in the logs
             enabled: false
             # edit spring.metrics.export.delay-millis to set report frequency
+    registry:
+            password: virtualLibrary197
 
 
 # ===================================================================
